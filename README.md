@@ -17,10 +17,12 @@ The app is built around the philosophy that small, consistent actions lead to me
 ## Screenshots
 
 <p align="center">
+  <img src="screenshots/login.png" width="200" alt="Login Screen" />
+  <img src="screenshots/buddies.png" width="200" alt="Buddies Screen" />
   <img src="screenshots/today.png" width="200" alt="Today Screen" />
   <img src="screenshots/calendar.png" width="200" alt="Calendar View" />
-  <img src="screenshots/buddies.png" width="200" alt="Buddies Screen" />
-  <img src="screenshots/login.png" width="200" alt="Login Screen" />
+  
+  
 </p>
 
 ---
